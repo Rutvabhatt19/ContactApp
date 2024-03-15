@@ -11,7 +11,7 @@ class ContactListProvider extends ChangeNotifier {
     if (contactsData != null) {
       contacts = contactsData.map((data) {
         final parts = data.split(',');
-        return mainContact(parts[0], parts[1],parts[2]);
+        return mainContact(parts[0], parts[1], parts[2]);
       }).toList();
       notifyListeners();
     }
@@ -43,10 +43,11 @@ class ContactListProvider extends ChangeNotifier {
     prefs.setStringList('contacts', contactsData);
   }
 }
+
 class mainContact {
   String name;
   String phoneNumber;
   String lastname;
 
-  mainContact(this.name, this.phoneNumber,this.lastname);
+  mainContact(this.name, this.phoneNumber, this.lastname);
 }
