@@ -38,14 +38,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/271bade0-894c-47e8-ad61-fbeaf889ce41" alt="Contact List" width="250"></td>
-    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/bf567568-0fc0-4a45-bcb3-fdd9bf5e2e31" alt="Add Contact" width="250"></td>
-    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/811c9be9-ba81-4a2f-a682-6c3ad60d4996" alt="Update Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/987741ef-d891-43f7-9f78-0f4132f53a4b" alt="Contact List" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/9a6e6bf5-63be-437f-9f76-a7d5e47f75aa" alt="Edit Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/c0f08d7e-c0e1-4cf6-85a7-e9fbe6709603" alt="Setting Screen" width="250"></td>
   </tr>
   <tr>
     <td align="center">Contact List</td>
-    <td align="center">Add Contact</td>
-    <td align="center">Update Contact</td>
+    <td align="center">Edit Contact</td>
+    <td align="center">Settings Screen</td>
   </tr>
 </table>
 
