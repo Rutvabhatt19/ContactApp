@@ -1,19 +1,63 @@
-# contactapp
+<h1>📱 Contact App - Contact Management Application</h1>
 
-A new Flutter project.
+<p><strong>A Flutter app for managing contacts with theme customization.</strong></p>
 
-## Getting Started
+<img class="badge" src="https://img.shields.io/badge/Flutter-v2.0%2B-blue?style=flat&logo=flutter" alt="Flutter">
+<img class="badge" src="https://img.shields.io/badge/License-MIT-green" alt="License">
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>🚀 Project Overview</h2>
+<p>The <strong>Contact App</strong> allows users to manage their contacts effectively. Users can add, update, delete, and view contacts while customizing the app's theme. The app uses SharedPreferences for storing contact data locally.</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>✨ Features</h2>
+<ul>
+    <li>📇 <strong>Contact Management</strong>: Add, update, and delete contacts easily.</li>
+    <li>🎨 <strong>Customizable Themes</strong>: Change the app's appearance to your liking.</li>
+    <li>💾 <strong>Local Storage</strong>: Use SharedPreferences to store contact information.</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Usage</h2>
+<p>To use the app:</p>
+<ol>
+    <li><strong>Add Contact</strong>: Enter contact details to save a new contact.</li>
+    <li><strong>Update Contact</strong>: Modify existing contact information.</li>
+    <li><strong>Delete Contact</strong>: Remove contacts that are no longer needed.</li>
+    <li><strong>View Contacts</strong>: Browse through your saved contacts.</li>
+    <li><strong>Customize</strong>: Change the app's theme as desired.</li>
+</ol>
+
+<hr>
+
+<h2>📱 Screenshots</h2>
+<p>Here’s a preview of the user interface:</p>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/271bade0-894c-47e8-ad61-fbeaf889ce41" alt="Contact List" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/bf567568-0fc0-4a45-bcb3-fdd9bf5e2e31" alt="Add Contact" width="250"></td>
+    <td><img src="https://github.com/Rutvabhatt19/ContactApp/assets/118719070/811c9be9-ba81-4a2f-a682-6c3ad60d4996" alt="Update Contact" width="250"></td>
+  </tr>
+  <tr>
+    <td align="center">Contact List</td>
+    <td align="center">Add Contact</td>
+    <td align="center">Update Contact</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🛠️ Technologies Used</h2>
+<ul>
+    <li><strong>Flutter</strong>: Cross-platform app development framework.</li>
+    <li><strong>SharedPreferences</strong>: For storing contact information locally.</li>
+</ul>
+
+<hr>
 ![WhatsApp Image 2023-11-01 at 14 45 20](https://github.com/Rutvabhatt19/ContactApp/assets/118719070/271bade0-894c-47e8-ad61-fbeaf889ce41)
 
 ![WhatsApp Image 2023-11-01 at 14 45 38](https://github.com/Rutvabhatt19/ContactApp/assets/118719070/bf567568-0fc0-4a45-bcb3-fdd9bf5e2e31)
